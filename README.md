@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Achyut But Call me Daddy</h1>
+<h1 align="center">Hi 👋, I'm Khukuri</h1>
 <h3 align="center">Just Trying okay?</h3>
 
-- 🔭 I’m currently working on **Live**
+- 🔭 I’m currently working on **Life**
 
 - 🌱 I’m currently learning **.Net Core**
 
