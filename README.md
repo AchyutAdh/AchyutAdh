@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khukuri</h1>
 <div align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-</div>  
+<img src=""https://magiccopy.xyz/assets/images/hadder.gif"" align="center" height="" width="400" />
+</div>    
 <h3 align="center">Just Trying okay?</h3>
 
 - 🔭 I’m currently working on **Life**
