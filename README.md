@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khukuri</h1>
 <div align="center">
-<img src=""https://magiccopy.xyz/assets/images/hadder.gif"" align="center" height="" width="400" />
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" height="" width="400" />
 </div>    
 <h3 align="center">Just Trying okay?</h3>
 
