@@ -18,7 +18,3 @@
 - 📫 How to reach me **adhikariachyut885@gmail.com**
 
 - ⚡ Fun fact **Vibee**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
